@@ -1,0 +1,33 @@
+﻿# Ignore video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Archives & logs
+*.zip
+*.tar
+*.gz
+*.rar
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Node & build
+node_modules/
+dist/
+build/
+out/
+target/
+
+# IDE / editor
+.vscode/
+.idea/
+nbproject/
+
+# other
+*.class
+*.jar
